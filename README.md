@@ -1,0 +1,2 @@
+# TestProject
+Dotnet core
